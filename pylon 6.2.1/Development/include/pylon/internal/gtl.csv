@@ -1,0 +1,15 @@
+;Node Type;Doubled;Has Min;Has Max;Has Inc;C-Type;C-Type for Return;C-Type Target;True Variant;Clipable;;Access Mode Test;Value Constraints;;;;;
+;Boolean;;;;;bool;bool;;;;;IsReadable;Min;;;;;
+;Integer;;yes;yes;yes;long long;int64_t;;;yes;;IsWritable;Max;;;;;
+;Enumeration;;;;;const GENICAM_NAMESPACE::gcstring&;GENICAM_NAMESPACE::gcstring;;;;;IsImplemented;Inc;;;;;
+;Float;;yes;yes;;double;double;;;yes;;IsAvailable;;;;;;
+;String;yes;;;;const GENICAM_NAMESPACE::gcstring&;GENICAM_NAMESPACE::gcstring;;;;;;;;;;;
+;;;yes;yes;yes;char;int64_t;long long;yes;yes;;;;;;;;
+;;;yes;yes;yes;unsigned char;int64_t;long long;yes;yes;;;;;;;;
+;;;yes;yes;yes;int;int64_t;long long;yes;yes;;;;;;;;
+;;;yes;yes;yes;unsigned int;int64_t;long long;yes;yes;;;;;;;;
+;;;yes;yes;yes;long;int64_t;long long;yes;yes;;;;;;;;
+;;;yes;yes;yes;unsigned long;int64_t;long long;yes;yes;;;;;;;;
+;;;yes;yes;yes;unsigned long long;int64_t;long long;yes;yes;;;;;;;;
+;;;;;;const char*;GENICAM_NAMESPACE::gcstring;GENICAM_NAMESPACE::gcstring;yes;;;;;;;;;
+;;;yes;yes;;float;double;double;yes;yes;;;;;;;;

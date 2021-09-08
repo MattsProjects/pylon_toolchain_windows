@@ -1,0 +1,3 @@
+#--log-file gtl.log
+gtl.csv
+-s gtl.tpl.h -o gtlgen.h
