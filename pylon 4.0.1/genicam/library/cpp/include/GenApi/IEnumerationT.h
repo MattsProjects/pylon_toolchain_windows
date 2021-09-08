@@ -335,7 +335,7 @@ namespace GenApi
                       if( m_EnumExists[idx] &&  m_EnumValues[idx] == IntValue)
                           return (EnumT) idx;
                   }
-                  throw ACCESS_EXCEPTION("Unknown IntValue %"FMT_I64"d", IntValue);
+                  throw ACCESS_EXCEPTION("Unknown IntValue %" FMT_I64"d ", IntValue);
               }
               else
                   throw ACCESS_EXCEPTION("Feature not present (reference not valid)");
