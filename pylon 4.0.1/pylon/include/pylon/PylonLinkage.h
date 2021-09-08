@@ -1,6 +1,6 @@
 //-----------------------------------------------------------------------------
 //  Basler pylon SDK
-//  Copyright (C) 2008-2013 Basler
+//  Copyright (c) 2008-2014 Basler AG
 //  http://www.baslerweb.com
 //  Author:  JS
 //-----------------------------------------------------------------------------
@@ -79,10 +79,10 @@
 
 //////////////////////////////////////////////////////////////////////////////
 //
-#define PYLON_LIB_NAME( module )  module ## PYLON_SUFFIX( PYLON_CONFIGURATION, PYLON_COMPILER_STR, "lib" )
-#define PYLON_DLL_NAME( module )  module ## PYLON_SUFFIX( PYLON_CONFIGURATION, PYLON_COMPILER_STR, "dll" )
+#define PYLON_LIB_NAME( module )  module  PYLON_SUFFIX( PYLON_CONFIGURATION, PYLON_COMPILER_STR, "lib" )
+#define PYLON_DLL_NAME( module )  module  PYLON_SUFFIX( PYLON_CONFIGURATION, PYLON_COMPILER_STR, "dll" )
 
-#define PYLON_TL_LIB_NAME( module )  module ## PYLON_TL_LIB_SUFFIX
-#define PYLON_TL_DLL_NAME( module )  module ## PYLON_TL_DLL_SUFFIX
+#define PYLON_TL_LIB_NAME( module )  module  PYLON_TL_LIB_SUFFIX
+#define PYLON_TL_DLL_NAME( module )  module  PYLON_TL_DLL_SUFFIX
 
 #endif

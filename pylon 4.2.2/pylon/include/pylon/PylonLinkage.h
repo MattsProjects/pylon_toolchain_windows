@@ -79,10 +79,10 @@
 
 //////////////////////////////////////////////////////////////////////////////
 //
-#define PYLON_LIB_NAME( module )  module ## PYLON_SUFFIX( PYLON_CONFIGURATION, PYLON_COMPILER_STR, "lib" )
-#define PYLON_DLL_NAME( module )  module ## PYLON_SUFFIX( PYLON_CONFIGURATION, PYLON_COMPILER_STR, "dll" )
+#define PYLON_LIB_NAME( module )  module  PYLON_SUFFIX( PYLON_CONFIGURATION, PYLON_COMPILER_STR, "lib" )
+#define PYLON_DLL_NAME( module )  module  PYLON_SUFFIX( PYLON_CONFIGURATION, PYLON_COMPILER_STR, "dll" )
 
-#define PYLON_TL_LIB_NAME( module )  module ## PYLON_TL_LIB_SUFFIX
-#define PYLON_TL_DLL_NAME( module )  module ## PYLON_TL_DLL_SUFFIX
+#define PYLON_TL_LIB_NAME( module )  module  PYLON_TL_LIB_SUFFIX
+#define PYLON_TL_DLL_NAME( module )  module  PYLON_TL_DLL_SUFFIX
 
 #endif
