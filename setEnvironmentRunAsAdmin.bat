@@ -13,5 +13,5 @@ setx -m PYLON_6_0_1_DEV_DIR "%~dp0pylon 6.0.1"
 setx -m PYLON_6_1_0_DEV_DIR "%~dp0pylon 6.1.0"
 setx -m PYLON_6_1_1_DEV_DIR "%~dp0pylon 6.1.1"
 setx -m PYLON_6_2_0_DEV_DIR "%~dp0pylon 6.2.0"
-setx -m PYLON_6_2_1_DEV_DIR "%~dp0pylon 6.2.1"
+setx -m PYLON_6_3_0_DEV_DIR "%~dp0pylon 6.3.0"
 
