@@ -37,10 +37,12 @@ Global
 		Pylon_6_1_1|x86 = Pylon_6_1_1|x86
 		Pylon_6_2_0|x64 = Pylon_6_2_0|x64
 		Pylon_6_2_0|x86 = Pylon_6_2_0|x86
-		Pylon_6_2_1|x64 = Pylon_6_2_1|x64
-		Pylon_6_2_1|x86 = Pylon_6_2_1|x86
 		Pylon_6_3_0|x64 = Pylon_6_3_0|x64
 		Pylon_6_3_0|x86 = Pylon_6_3_0|x86
+		Pylon_7_0_0|x64 = Pylon_7_0_0|x64
+		Pylon_7_0_0|x86 = Pylon_7_0_0|x86
+		Pylon_7_1_0|x64 = Pylon_7_1_0|x64
+		Pylon_7_1_0|x86 = Pylon_7_1_0|x86
 		Pylon_Installed|x64 = Pylon_Installed|x64
 		Pylon_Installed|x86 = Pylon_Installed|x86
 	EndGlobalSection
@@ -105,14 +107,18 @@ Global
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_2_0|x64.Build.0 = Pylon_6_2_0|x64
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_2_0|x86.ActiveCfg = Pylon_6_2_0|Win32
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_2_0|x86.Build.0 = Pylon_6_2_0|Win32
-		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_2_1|x64.ActiveCfg = Pylon_6_2_1|x64
-		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_2_1|x64.Build.0 = Pylon_6_2_1|x64
-		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_2_1|x86.ActiveCfg = Pylon_6_2_1|Win32
-		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_2_1|x86.Build.0 = Pylon_6_2_1|Win32
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_3_0|x64.ActiveCfg = Pylon_6_3_0|x64
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_3_0|x64.Build.0 = Pylon_6_3_0|x64
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_3_0|x86.ActiveCfg = Pylon_6_3_0|Win32
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_6_3_0|x86.Build.0 = Pylon_6_3_0|Win32
+		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_7_0_0|x64.ActiveCfg = Pylon_7_0_0|x64
+		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_7_0_0|x64.Build.0 = Pylon_7_0_0|x64
+		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_7_0_0|x86.ActiveCfg = Pylon_7_0_0|Win32
+		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_7_0_0|x86.Build.0 = Pylon_7_0_0|Win32
+		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_7_1_0|x64.ActiveCfg = Pylon_7_1_0|x64
+		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_7_1_0|x64.Build.0 = Pylon_7_1_0|x64
+		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_7_1_0|x86.ActiveCfg = Pylon_7_1_0|Win32
+		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_7_1_0|x86.Build.0 = Pylon_7_1_0|Win32
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_Installed|x64.ActiveCfg = Pylon_Installed|x64
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_Installed|x64.Build.0 = Pylon_Installed|x64
 		{2C34A746-89A3-43FB-9993-BC19F331131E}.Pylon_Installed|x86.ActiveCfg = Pylon_Installed|Win32
